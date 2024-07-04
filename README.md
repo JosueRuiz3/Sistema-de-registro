@@ -1,3 +1,3 @@
-<h1> Sistema de registro</h1>
+<h1> Sistema de registro 2</h1>
 
 - Estado del proyecyo: En construcción 
